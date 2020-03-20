@@ -7,7 +7,7 @@
 
 ## Pre-requisites
 - {For python 3.5 and up}
-- {Windows Service Pack 1 Windows 7 - Windows 10}
+- {For Windows 7 - Windows 10}
 
 ## Up and Running
 - {Install Python 3.8 in your desktop}
