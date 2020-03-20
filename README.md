@@ -1,4 +1,4 @@
-# zedrichs# {Food Management System}
+BSCS-19-Food Management System
 
 {Simple food management system that help you to make a simple idea to create a project about tkinter}
 
